@@ -1,35 +1,32 @@
-# 🔐 Code Vault - My Coding Journey
+# 💻 HTML-learning
+My daily HTML learning journey - 1 hour per day from Oct 12, 2025
 
-Hi, I'm Ahasiya! 👋
-This is my journey from Fresher to Developer.
+### 🗺️ My Career Roadmap
+![Career Roadmap](./career-roadmap.jpeg)
 
----
+### 📂 What I Learned
 
-## 📚 Month 1 - Strong Foundation (Currently Learning)
+**Week 1 - HTML Basics**
+- `day1.html` - Headings, Paragraph, Basics
+- `day2.html` - Lists, Formatting
+- `day3.html` - Links, Images
+- `day4.html` - Tables
+- `day5.html` - Forms & Inputs
+- `day6.html` - Media Tags
 
-### 01-HTML ✅
-- Day 1 to Day 6 Completed
-- Learned HTML basics, tags, and forms
+**Practice Files**
+- `practice1.html` - Basic Practice
+- `practice2.html` - Vijay Image + YouTube Link Project
+- `practice3.html` - Full Page Practice
 
-### 02-CSS 🚀 (Starting Tomorrow)
-- Will learn Flexbox, Grid, and Styling
+### 🚀 Next Target
+- [ ] Learn CSS & Tailwind
+- [ ] Learn JavaScript
+- [ ] Build Portfolio Projects
+- [ ] Learn React
 
-### 03-JavaScript Basic 📝 (Upcoming)
-- Variables, If-Else, Loops, Functions
-
----
-
-## 🎯 My Goal
-- Become a Full Stack Developer in 6 Months
-- Coding 1.5 hours daily
-
----
-
-## 🛠️ Technologies I am Learning
-- HTML, CSS, JavaScript
-- React.js, Node.js
-- MySQL, GitHub
+### 🔗 Connect With Me
+GitHub: [@ahasiya7-ship-it](https://github.com/ahasiya7-ship-it)
 
 ---
-
-Made with 💜 by Ahasiya | Fresher | 2026
+⭐ Consistency > Perfection - 1% Better Every Day!

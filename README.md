@@ -2,7 +2,9 @@
 My daily HTML learning journey - 1 hour per day from Oct 12, 2025
 
 ### 🗺️ My Career Roadmap
-![Career Roadmap](./career-roadmap.jpeg)
+<p align="center">
+  <img src="./career-roadmap.jpeg" width="550" alt="My Career Roadmap">
+</p>
 
 ### 📂 What I Learned
 
@@ -16,7 +18,7 @@ My daily HTML learning journey - 1 hour per day from Oct 12, 2025
 
 **Practice Files**
 - `practice1.html` - Basic Practice
-- `practice2.html` - Vijay Image + YouTube Link Project
+- `practice2.html` - Image + Link Project
 - `practice3.html` - Full Page Practice
 
 ### 🚀 Next Target
@@ -25,7 +27,7 @@ My daily HTML learning journey - 1 hour per day from Oct 12, 2025
 - [ ] Build Portfolio Projects
 - [ ] Learn React
 
-### 🔗 Connect With Me
+### 🔗 Connect
 GitHub: [@ahasiya7-ship-it](https://github.com/ahasiya7-ship-it)
 
 ---
